@@ -1,6 +1,6 @@
 
 
-\# INF1163 - Library Self-Checkout System
+# INF1163 - Library Self-Checkout System
 
 
 
@@ -10,41 +10,41 @@ for INF1163 at the Université du Québec en Outaouais.
 
 
 
-\## Technologies
+## Technologies
 
-\- Java
+- Java
 
-\- Eclipse IDE
+- Eclipse IDE
 
-\- Git and GitHub
-
-
-
-\## Features
-
-\- Library user authentication
-
-\- RFID-based book identification (simulated)
-
-\- Book checkout management
-
-\- Return date tracking
-
-\- Checkout receipt generation
+- Git and GitHub
 
 
 
-\## Project Structure
+## Features
 
-\- src/ - Java source code
+- Library user authentication
 
-\- docs/ - UML diagrams and documentation
+- RFID-based book identification (simulated)
 
-\- data/ - Sample library data
+- Book checkout management
+
+- Return date tracking
+
+- Checkout receipt generation
 
 
 
-\## Team
+## Project Structure
+
+- src/ - Java source code
+
+- docs/ - UML diagrams and documentation
+
+- data/ - Sample library data
+
+
+
+## Team
 
 Developed as a collaborative academic project.
 
