@@ -1,4 +1,3 @@
-
 ---
 name: "Testing"
 about: "Créer ou exécuter des tests de validation"

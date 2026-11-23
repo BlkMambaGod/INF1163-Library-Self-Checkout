@@ -1,4 +1,3 @@
-
 ---
 name: "Database"
 about: "Créer ou modifier les données et schémas SQLite"

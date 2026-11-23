@@ -1,4 +1,3 @@
-
 ---
 name: "Bug Report"
 about: "Signaler un problème dans l'application"

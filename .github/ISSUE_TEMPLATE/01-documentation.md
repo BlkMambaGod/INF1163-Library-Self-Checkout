@@ -1,4 +1,3 @@
-
 ---
 name: "Documentation"
 about: "Créer ou modifier un document du projet"

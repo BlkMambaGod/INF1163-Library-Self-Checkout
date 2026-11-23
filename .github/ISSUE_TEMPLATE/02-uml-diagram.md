@@ -1,4 +1,3 @@
-
 ---
 name: "UML Diagram"
 about: "Créer ou mettre à jour un diagramme UML"

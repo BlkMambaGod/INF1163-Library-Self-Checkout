@@ -1,4 +1,3 @@
-
 ---
 name: "Feature"
 about: "Développer une fonctionnalité Java"
